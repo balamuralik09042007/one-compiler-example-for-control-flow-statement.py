@@ -1,0 +1,10 @@
+import math
+a=float(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print(math.floor(a))
+print(math.ceil(a))
+print(round(a))
+print(round(math.sqrt(b)))
+print(round(math.pow(c,d)))
